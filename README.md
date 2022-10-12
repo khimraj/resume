@@ -9,7 +9,7 @@ Email: [khimrajsuthar@gmail.com](mailto:) \
 
 _Bengaluru, India_ \
 **Ivy Homes**\
-June 2021 - Present \
+June 2021 - Present
 - Working on Entity Extraction, Document Classification, Text Clustering, Pricing(Valuation) Model.
 - Deployed Pricing Model using Django and implemented VPN to protect internal data.
 
@@ -17,7 +17,7 @@ June 2021 - Present \
 
 _Remote_ \
 **Skillbee**\
-April 2021 – June 2021 \
+April 2021 – June 2021
 - Worked on Job Recommendation and Relevance problems.
 - Worked on Deep Learning-based document classification which improved the CV relevance on the platform from 65% to 93%.
 
@@ -25,7 +25,7 @@ April 2021 – June 2021 \
 
 _Remote_ \
 **Amazon**\
-May 2020 – July 2020 \
+May 2020 – July 2020
 - Designed and developed a fully responsive lender runbook website for Amazon Pay Later Service and deployed on AWS.
 - Achieved an 80% reduction in the preparation and exchange time of standard partner materials.
 - All code was reviewed and pushed to production and received a full-time job offer.
