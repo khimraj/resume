@@ -19,14 +19,14 @@ _{{ experience.place }}_
 
 ## Publications
 
-{% for paper in publications %}
-- [{{paper.title}}]({{paper.link}}): {{paper.description}}
+{% for publication in publications %}
+- [{{publication.title}}]({{publication.link}}): {{publication.description}}
 {% endfor %}
 
 ## Projects
 
 {% for project in projects %}
-### {{ experience.position }}
+### {{ project.name }}
 
 {% for work in project.work %}
 - {{ work.description }}

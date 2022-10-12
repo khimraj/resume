@@ -38,15 +38,13 @@ experiences:
 
 # publications
 publications:
-  paper:
-  title: Human Activity Recognition using Accelerometer and Gyroscope Data from Smartphones
-  link: https://ieeexplore.ieee.org/document/9117456
-  description: Khimraj, P. K. Shukla, A. Vijayvargiya and R. Kumar, ”Human Activity Recognition using Accelerometer and Gyroscope Data from Smartphones” 2020 International Conference on Emerging Trends in Communication, Control and Computing (ICONC3), India, 2020.
+  - title: Human Activity Recognition using Accelerometer and Gyroscope Data from Smartphones
+    link: https://ieeexplore.ieee.org/document/9117456
+    description: Khimraj, P. K. Shukla, A. Vijayvargiya and R. Kumar, ”Human Activity Recognition using Accelerometer and Gyroscope Data from Smartphones” 2020 International Conference on Emerging Trends in Communication, Control and Computing (ICONC3), India, 2020.
 
-  paper:
-  title: Voting-based 1D CNN model for human lower limb activity recognition using sEMG signal
-  link: https://link.springer.com/article/10.1007/s13246-021-01071-6
-  description: Vijayvargiya A, Khimraj, Kumar R, Dey N. Voting-based 1D CNN model for human lower limb activity recognition using sEMG signal. Phys Eng Sci Med. 2021 Nov 8.
+  - title: Voting-based 1D CNN model for human lower limb activity recognition using sEMG signal
+    link: https://link.springer.com/article/10.1007/s13246-021-01071-6
+    description: Vijayvargiya A, Khimraj, Kumar R, Dey N. Voting-based 1D CNN model for human lower limb activity recognition using sEMG signal. Phys Eng Sci Med. 2021 Nov 8.
 
 # Projects
 projects:
