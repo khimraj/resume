@@ -1,6 +1,6 @@
 # Khimraj Suthar
 
-Email: khimrajsuthar@gmail.com
+Email: [khimrajsuthar@gmail.com](mailto:) |
 [Website](https://khimrajsuthar.com/) | [LinkedIn](https://www.linkedin.com/in/khimraj-suthar-20b7aa122) | [GitHub](https://www.github.com/khimraj) | [Google Scholar](https://scholar.google.com/citations?user=RpBv3XcAAAAJ&hl=en) | [Resume](./main.pdf)
 
 ## Experience
@@ -8,7 +8,7 @@ Email: khimrajsuthar@gmail.com
 ### Senior Software Engineer, Machine Learning
 
 _Bengaluru, India_  
-Ivy Homes  
+**Ivy Homes**
 June 2021 - Present  
 - Working on Entity Extraction, Document Classification, Text Clustering, Pricing(Valuation) Model.
 - Deployed Pricing Model using Django and implemented VPN to protect internal data.
@@ -16,7 +16,7 @@ June 2021 - Present
 ### Machine Learning Intern
 
 _Remote_  
-Skillbee  
+**Skillbee**
 April 2021 – June 2021  
 - Worked on Job Recommendation and Relevance problems.
 - Worked on Deep Learning-based document classification which improved the CV relevance on the platform from 65% to 93%.
@@ -24,7 +24,7 @@ April 2021 – June 2021
 ### Software Development Engineer Intern
 
 _Remote_  
-Amazon  
+**Amazon**
 May 2020 – July 2020  
 - Designed and developed a fully responsive lender runbook website for Amazon Pay Later Service and deployed on AWS.
 - Achieved an 80% reduction in the preparation and exchange time of standard partner materials.
@@ -57,7 +57,8 @@ May 2020 – July 2020
 - **Malaviya National Institute of Technology (MNIT)**
 
     _Jaipur, India_
-    Bachelor of Technology - Computer Science and Engineering, 7.70/10
+    Bachelor of Technology - Computer Science and Engineering
+    CGPA - 7.70/10
     August 2017 - June 2021
 
 
@@ -68,10 +69,10 @@ May 2020 – July 2020
 
 ## Coursework
 
-- **Undergraduate**: Design and Analysis of Algorithms, Data Structures and Algorithms, Database Management System$|$ Operating System, Computer Networks, Digital Image Processing, Natural Language Processing, Object-Oriented Analysis and Design, Deep Learning, Advanced Topics in Databases, Concurrent and Parallel Programming, Software Engineering
+- **Undergraduate**: Design and Analysis of Algorithms, Data Structures and Algorithms, Database Management System Operating System, Computer Networks, Digital Image Processing, Natural Language Processing, Object-Oriented Analysis and Design, Deep Learning, Advanced Topics in Databases, Concurrent and Parallel Programming, Software Engineering
 - **Additional**: Machine Learning, Mathematics for ML, Deep Learning Specialization, TensorFlow in Practice Specialization
 
 ## Achievements
 
-- Rated 1993 on \href{https://www.codechef.com/users/khimrajsuthar}{Codechef} and 1766 on \href{https://leetcode.com/khimrajsuthar/}{LeetCode}(Solved 500 problems).
+- Rated 1993 on [Codechef](https://www.codechef.com/users/khimrajsuthar) and 1766 on [Leetcode](https://leetcode.com/khimrajsuthar/)(Solved 500 problems).
 - Secured 582/4700 rank in Round F and 608/6200 rank in Round H of Google Kick Start coding competition 2020.
