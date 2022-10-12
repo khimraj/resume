@@ -64,7 +64,7 @@ education:
   - institute: Malaviya National Institute of Technology (MNIT)
     place: Jaipur, India
     program: Bachelor of Technology - Computer Science and Engineering
-    marks: 7.70/10
+    marks: CGPA - 7.70/10
     period: August 2017 - June 2021
 
 # skills
@@ -74,10 +74,10 @@ skills:
 
 # coursework
 coursework:
-  undergraduate: Design and Analysis of Algorithms, Data Structures and Algorithms, Database Management System$|$ Operating System, Computer Networks, Digital Image Processing, Natural Language Processing, Object-Oriented Analysis and Design, Deep Learning, Advanced Topics in Databases, Concurrent and Parallel Programming, Software Engineering
+  undergraduate: Design and Analysis of Algorithms, Data Structures and Algorithms, Database Management System Operating System, Computer Networks, Digital Image Processing, Natural Language Processing, Object-Oriented Analysis and Design, Deep Learning, Advanced Topics in Databases, Concurrent and Parallel Programming, Software Engineering
   additional: Machine Learning, Mathematics for ML, Deep Learning Specialization, TensorFlow in Practice Specialization
 
 # achievements
 achievements:
-  - Rated 1993 on \href{https://www.codechef.com/users/khimrajsuthar}{Codechef} and 1766 on \href{https://leetcode.com/khimrajsuthar/}{LeetCode}(Solved 500 problems).
+  - Rated 1993 on [Codechef](https://www.codechef.com/users/khimrajsuthar) and 1766 on [Leetcode](https://leetcode.com/khimrajsuthar/)(Solved 500 problems).
   - Secured 582/4700 rank in Round F and 608/6200 rank in Round H of Google Kick Start coding competition 2020.
