@@ -1,0 +1,23 @@
+configuration:
+  configuration: data.yml
+  template_dir:
+    - templates
+  template_types:
+    latex_type:
+      base_type: jinja2
+      file_extensions:
+        - tex_jj2
+      options:
+        block_start_string: '((*'
+        block_end_string: '*))'
+        variable_start_string: '((('
+        variable_end_string: ')))'
+        comment_start_string : '((='
+        comment_end_string: '=))'
+        trim_blocks: true
+        lstrip_blocks: true
+
+targets:
+  - deploy/main.tex: templates/resume.tex_jj2
+  - deploy/README.md: templates/resume.md_jj2
+  - deploy/_config.yml: templates/_config.yml_jj2

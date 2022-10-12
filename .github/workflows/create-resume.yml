@@ -1,0 +1,32 @@
+name: Create resume
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Repo checkout
+      uses: actions/checkout@v2
+    - name: Set up Python 3.6
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.6'
+    - name: Install from pip
+      run: pip install -r requirements.txt
+    - name: Generate tex file
+      run: moban
+    - name: Compile LaTeX document
+      uses: dante-ev/latex-action@master
+      with:
+        root_file: deploy/main.tex
+    - name: Move pdf to a directory
+      run: mv main.pdf deploy/main.pdf
+    - name: Commit to gh-pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./deploy
+        enable_jekyll: true
