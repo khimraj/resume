@@ -41,7 +41,7 @@ May 2020 – July 2020
 
 ### Indoor Localization For 5g And Beyond(BTech Thesis Group Project)
 
-- Designed and developed a fully responsive lender runbook website for Amazon Pay Later Service and deployed on AWS.
+- Proposed a novel MOIL deep learning approach for indoor localization using CSI data.
 - The localization accuracy in the metric of mean distance error is within 0.01m in LOS and 0.02m in the NLOS scenario, which is 96% more precise than existing techniques.
 
 ### Automated Tweets Report
