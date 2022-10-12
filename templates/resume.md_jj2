@@ -1,6 +1,6 @@
 # {{ name }}
 
-Email: [{{email}}](mailto:) |
+Email: [{{email}}](mailto:) \
 [Website]({{website}}) | [LinkedIn]({{linkedin}}) | [GitHub]({{github}}) | [Google Scholar]({{gscholar}}) | [Resume](./main.pdf)
 
 ## Experience
@@ -8,9 +8,9 @@ Email: [{{email}}](mailto:) |
 {% for experience in experiences %}
 ### {{ experience.position }}
 
-_{{ experience.place }}_  
-**{{ experience.company }}**
-{{ experience.period }}  
+_{{ experience.place }}_ \
+**{{ experience.company }}**\
+{{ experience.period }} \
 {% for work in experience.work %}
 - {{ work.description }}
 {% endfor %}
@@ -39,9 +39,9 @@ _{{ experience.place }}_
 {% for institute in education %}
 - **{{ institute.institute }}**
 
-    _{{ institute.place }}_
-    {{ institute.program }}
-    {{ institute.marks }}
+    _{{ institute.place }}_\
+    {{ institute.program }}\
+    {{ institute.marks }}\
     {{ institute.period }}
 
 {% endfor %}
