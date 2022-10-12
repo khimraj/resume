@@ -1,31 +1,31 @@
 # Khimraj Suthar
 
-Email: [khimrajsuthar@gmail.com](mailto:) |
+Email: [khimrajsuthar@gmail.com](mailto:) \
 [Website](https://khimrajsuthar.com/) | [LinkedIn](https://www.linkedin.com/in/khimraj-suthar-20b7aa122) | [GitHub](https://www.github.com/khimraj) | [Google Scholar](https://scholar.google.com/citations?user=RpBv3XcAAAAJ&hl=en) | [Resume](./main.pdf)
 
 ## Experience
 
 ### Senior Software Engineer, Machine Learning
 
-_Bengaluru, India_  
-**Ivy Homes**
-June 2021 - Present  
+_Bengaluru, India_ \
+**Ivy Homes**\
+June 2021 - Present \
 - Working on Entity Extraction, Document Classification, Text Clustering, Pricing(Valuation) Model.
 - Deployed Pricing Model using Django and implemented VPN to protect internal data.
 
 ### Machine Learning Intern
 
-_Remote_  
-**Skillbee**
-April 2021 – June 2021  
+_Remote_ \
+**Skillbee**\
+April 2021 – June 2021 \
 - Worked on Job Recommendation and Relevance problems.
 - Worked on Deep Learning-based document classification which improved the CV relevance on the platform from 65% to 93%.
 
 ### Software Development Engineer Intern
 
-_Remote_  
-**Amazon**
-May 2020 – July 2020  
+_Remote_ \
+**Amazon**\
+May 2020 – July 2020 \
 - Designed and developed a fully responsive lender runbook website for Amazon Pay Later Service and deployed on AWS.
 - Achieved an 80% reduction in the preparation and exchange time of standard partner materials.
 - All code was reviewed and pushed to production and received a full-time job offer.
@@ -56,9 +56,9 @@ May 2020 – July 2020
 
 - **Malaviya National Institute of Technology (MNIT)**
 
-    _Jaipur, India_
-    Bachelor of Technology - Computer Science and Engineering
-    CGPA - 7.70/10
+    _Jaipur, India_\
+    Bachelor of Technology - Computer Science and Engineering\
+    CGPA - 7.70/10\
     August 2017 - June 2021
 
 
