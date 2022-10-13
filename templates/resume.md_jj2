@@ -1,7 +1,7 @@
 # {{ name }}
 
 Email: [{{email}}](mailto:) \
-[Website]({{website}}) | [LinkedIn]({{linkedin}}) | [GitHub]({{github}}) | [Google Scholar]({{gscholar}}) | [Resume](./main.pdf)
+[Website]({{website}}) | [LinkedIn]({{linkedin}}) | [GitHub]({{github}}) | [Google Scholar]({{gscholar}}) | [Resume](./resume.pdf)
 
 ## Experience
 
