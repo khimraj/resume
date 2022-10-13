@@ -1,7 +1,7 @@
 # Khimraj Suthar
 
 Email: [khimrajsuthar@gmail.com](mailto:) \
-[Website](https://khimrajsuthar.com/) | [LinkedIn](https://www.linkedin.com/in/khimraj-suthar-20b7aa122) | [GitHub](https://www.github.com/khimraj) | [Google Scholar](https://scholar.google.com/citations?user=RpBv3XcAAAAJ&hl=en) | [Resume](./main.pdf)
+[Website](https://khimrajsuthar.com/) | [LinkedIn](https://www.linkedin.com/in/khimraj-suthar-20b7aa122) | [GitHub](https://www.github.com/khimraj) | [Google Scholar](https://scholar.google.com/citations?user=RpBv3XcAAAAJ&hl=en) | [Resume](./resume.pdf)
 
 ## Experience
 
