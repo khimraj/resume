@@ -11,12 +11,19 @@ gscholar: https://scholar.google.com/citations?user=RpBv3XcAAAAJ&hl=en
 
 # Experience
 experiences:
-  - company: Ivy Homes
-    place: Bengaluru, India
-    position: Senior Software Engineer, Machine Learning
+  - company: Webb.ai
+    place: Remote
+    position: Software Engineer, LLM
     period: June 2021 - Present
     work:
-      - description: Working on Entity Extraction, Document Classification, Text Clustering, Pricing(Valuation) Model.
+      - description: Focusing on advancing the automation of troubleshooting processes for DevOps/SRE issues in cloud environments, leveraging expertise in deploying and optimizing LLM agents.
+  
+  - company: Ivy Homes
+    place: Bengaluru, India
+    position: Software Engineer, Machine Learning
+    period: June 2021 - Present
+    work:
+      - description: Steered the development of OCR, Entity Extraction, Document Classification, Text Clustering, Pricing(Valuation) Model, Liquidity Model, and intuitive Chatbot for real estate using ChatGPT.
       - description: Deployed Pricing Model using Django and implemented VPN to protect internal data.
 
   - company: Skillbee
@@ -70,8 +77,8 @@ education:
 
 # skills
 skills:
-  proficient: C, C++, Python, HTML, CSS, SQL, Tenserﬂow, Keras, Scikit-Learn, Numpy, Pandas, Matplotlib, EDA, Machine Learning
-  familiar: Java, JavaScript, Bootstrap, JQuery, GitHub, AWS, Information Retrieval, AI, Deep Learning, Computer Vision, NLP
+  proficient: Python, SQL, Algorithms, Data Science, EDA, AI, Machine Learning, Deep Learning, NLP, Computer Vision, AWS, GCP, Tenserflow, Keras, Scikit-Learn, Numpy, Pandas, Matplotlib
+  familiar: C, C++, HTML, CSS, Java, JavaScript, Bootstrap, JQuery, GitHub, Information Retrieval, Generative AI, LLM, LangChain, RAG, CI/CD
 
 # coursework
 coursework:
