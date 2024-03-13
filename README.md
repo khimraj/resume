@@ -71,8 +71,8 @@ May 2020 – July 2020
 
 ## Skills
 
-- **Proficient**: C, C++, Python, HTML, CSS, SQL, Tenserﬂow, Keras, Scikit-Learn, Numpy, Pandas, Matplotlib, EDA, Machine Learning
-- **Familiar**: Java, JavaScript, Bootstrap, JQuery, GitHub, AWS, Information Retrieval, AI, Deep Learning, Computer Vision, NLP
+- **Proficient**: Python, SQL, Algorithms, Data Science, EDA, AI, Machine Learning, Deep Learning, NLP, Computer Vision, AWS, GCP, Tenserflow, Keras, Scikit-Learn, Numpy, Pandas, Matplotlib
+- **Familiar**: C, C++, HTML, CSS, Java, JavaScript, Bootstrap, JQuery, GitHub, Information Retrieval, Generative AI, LLM, LangChain, RAG, CI/CD
 
 ## Coursework
 
