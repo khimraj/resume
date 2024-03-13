@@ -1,10 +1,3 @@
-%------------------------
-% Resume Template
-% Author : Anubhav Singh
-% Github : https://github.com/xprilion
-% License : MIT
-%------------------------
-
 \documentclass[a4paper,20pt]{article}
 
 \usepackage{latexsym}
@@ -89,16 +82,22 @@
 \vspace{-3pt}
 \section{Experience}
   \resumeSubHeadingListStart
-    \resumeSubheading{Ivy Homes}{Bengaluru, IN}
-    {Senior Software Engineer, Machine Learning}{June 2021 - Present}
+  \resumeSubheading{\href{https://webb.ai/}{Webb.ai }}{Remote}
+    {Software Engineer, LLM}{February 2024 - Present}
     \begin{itemize}[label=$\circ$]
-        \item Steering the development of OCR, Entity Extraction, Document Classification, Text Clustering, Pricing(Valuation) Model, Liquidity Model, and intuitive Chatbot for real estate using ChatGPT.
+        \item Focusing on advancing the automation of troubleshooting processes for DevOps/SRE issues in cloud environments, leveraging expertise in deploying and optimizing LLM agents.
+      \end{itemize}
+\vspace{-4pt}
+    \resumeSubheading{\href{https://www.ivy.homes/}{Ivy Homes }}{Bengaluru, IN}
+    {Software Engineer, Machine Learning}{June 2021 - November 2023}
+    \begin{itemize}[label=$\circ$]
+        \item Steered the development of OCR, Entity Extraction, Document Classification, Text Clustering, Pricing(Valuation) Model, Liquidity Model, and intuitive Chatbot for real estate using ChatGPT.
 \vspace{-3pt}
          \item Implemented Django-based Pricing Model with VPN security for safeguarding sensitive internal data.
       \end{itemize}
 \vspace{-4pt}
     \resumeSubheading
-		{Skillbee}{Remote}
+		{\href{https://skillbee.com/}{Skillbee }}{Remote}
 		{Machine Learning Intern}{April 2021 – June 2021}
 		\begin{itemize}[label=$\circ$]
          \item Developed solutions for Job Recommendation and Relevance challenges.
@@ -107,7 +106,7 @@
        \end{itemize}
 \vspace{-4pt}
     \resumeSubheading
-		{Amazon}{Remote}
+		{\href{https://www.amazon.in/}{Amazon }}{Remote}
 		{Software Development Engineer Intern}{May 2020 – July 2020}
 		\begin{itemize}[label=$\circ$]
         \item Designed, developed and deployed a responsive lender runbook website for Amazon Pay Later Service on AWS.
@@ -125,16 +124,16 @@
 \section{Skills}
 	\resumeSubHeadingListStart
 	\resumeSubItem{Proficient}{~~Python $|$ SQL $|$ Algorithms $|$ Data Science $|$ EDA $|$ AI $|$ Machine Learning $|$ Deep Learning $|$ NLP $|$  Computer Vision $|$ AWS $|$ GCP $|$ Tenserﬂow $|$ Keras $|$ Scikit-Learn $|$ Numpy $|$ Pandas $|$ Matplotlib}
-	\resumeSubItem{Familiar}{~~C $|$ C++ $|$ HTML $|$ CSS $|$ Java $|$ JavaScript $|$ Bootstrap $|$ JQuery $|$ GitHub $|$ Information Retrieval $|$ Generative AI $|$ LLM $|$ CI/CD}
+	\resumeSubItem{Familiar}{~~C $|$ C++ $|$ HTML $|$ CSS $|$ Java $|$ JavaScript $|$ Bootstrap $|$ JQuery $|$ GitHub $|$ Information Retrieval $|$ Generative AI $|$ LLM $|$ LangChain $|$ RAG $|$ CI/CD}
 	\resumeSubHeadingListEnd
 
 %-----------PUBLICATIONS-----------------
 \vspace{-3pt}
 \section{Publications}
 \resumeSubHeadingListStart
-\resumeSubItem{Paper: \href{https://ieeexplore.ieee.org/document/9117456}{Human Activity Recognition using Accelerometer and Gyroscope Data from Smartphones}}{Khimraj, P. K. Shukla, A. Vijayvargiya and R. Kumar, ”Human Activity Recognition using Accelerometer and Gyroscope Data from Smartphones” 2020 International Conference on Emerging Trends in Communication, Control and Computing (ICONC3), India, 2020.}
+\resumeSubItem{Paper: \href{https://ieeexplore.ieee.org/document/9117456}{Human Activity Recognition using Accelerometer and Gyroscope Data from Smartphones }}{Khimraj, P. K. Shukla, A. Vijayvargiya and R. Kumar, ”Human Activity Recognition using Accelerometer and Gyroscope Data from Smartphones” 2020 International Conference on Emerging Trends in Communication, Control and Computing (ICONC3), India, 2020.}
 \vspace{2pt}
-\resumeSubItem{Paper: \href{https://link.springer.com/article/10.1007/s13246-021-01071-6}{Voting-based 1D CNN model for human lower limb activity recognition using sEMG signal}}{Vijayvargiya A, Khimraj, Kumar R, Dey N. Voting-based 1D CNN model for human lower limb activity recognition using sEMG signal. Phys Eng Sci Med. 2021 Nov 8. doi: 10.1007/s13246-021-01071-6. Epub ahead of print. PMID: 34748192.}
+\resumeSubItem{Paper: \href{https://link.springer.com/article/10.1007/s13246-021-01071-6}{Voting-based 1D CNN model for human lower limb activity recognition using sEMG signal }}{Vijayvargiya A, Khimraj, Kumar R, Dey N. Voting-based 1D CNN model for human lower limb activity recognition using sEMG signal. Phys Eng Sci Med. 2021 Nov 8. doi: 10.1007/s13246-021-01071-6. Epub ahead of print. PMID: 34748192.}
 \resumeSubHeadingListEnd
 
 %-----------PROJECTS-----------------
