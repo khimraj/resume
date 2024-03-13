@@ -1,2 +1,2 @@
 moban>=0.4.0
-ruamel_yaml==0.11.14
+ruamel_yaml
