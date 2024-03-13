@@ -9,7 +9,7 @@ Email: [khimrajsuthar@gmail.com](mailto:) \
 
 _Remote_ \
 **Webb.ai**\
-February 2021 – June 2021
+February 2024 – Present
 - Focusing on advancing the automation of troubleshooting processes for DevOps/SRE issues in cloud environments, leveraging expertise in deploying and optimizing LLM agents.
 
 ### Software Engineer, Machine Learning
