@@ -5,12 +5,21 @@ Email: [khimrajsuthar@gmail.com](mailto:) \
 
 ## Experience
 
-### Senior Software Engineer, Machine Learning
+### Software Engineer, LLM
+
+_Remote_ \
+**Webb.ai**\
+February 2021 – June 2021
+- Focusing on advancing the automation of troubleshooting processes for DevOps/SRE issues in cloud environments, leveraging expertise in deploying and optimizing LLM agents.
+
+### Software Development Engineer Intern
+
+### Software Engineer, Machine Learning
 
 _Bengaluru, India_ \
 **Ivy Homes**\
-June 2021 - Present
-- Working on Entity Extraction, Document Classification, Text Clustering, Pricing(Valuation) Model.
+June 2021 - November 2023
+- Steered the development of OCR, Entity Extraction, Document Classification, Text Clustering, Pricing(Valuation) Model, Liquidity Model, and intuitive Chatbot for real estate using ChatGPT.
 - Deployed Pricing Model using Django and implemented VPN to protect internal data.
 
 ### Machine Learning Intern
