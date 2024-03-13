@@ -12,8 +12,6 @@ _Remote_ \
 February 2021 – June 2021
 - Focusing on advancing the automation of troubleshooting processes for DevOps/SRE issues in cloud environments, leveraging expertise in deploying and optimizing LLM agents.
 
-### Software Development Engineer Intern
-
 ### Software Engineer, Machine Learning
 
 _Bengaluru, India_ \
