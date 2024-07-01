@@ -9,7 +9,7 @@ Email: [khimrajsuthar@gmail.com](mailto:) \
 
 _Remote_ \
 **Webb.ai**\
-February 2024 – Present
+January 2024 – Present
 - Focusing on advancing the automation of troubleshooting processes for DevOps/SRE issues in cloud environments, leveraging expertise in deploying and optimizing LLM agents.
 
 ### Software Engineer, Machine Learning
@@ -71,13 +71,13 @@ May 2020 – July 2020
 
 ## Skills
 
-- **Proficient**: Python, SQL, Algorithms, Data Science, EDA, AI, Machine Learning, Deep Learning, NLP, Computer Vision, AWS, GCP, Tenserflow, Keras, Scikit-Learn, Numpy, Pandas, Matplotlib
-- **Familiar**: C, C++, HTML, CSS, Java, JavaScript, Bootstrap, JQuery, GitHub, Information Retrieval, Generative AI, LLM, LangChain, RAG, CI/CD
+- **Proficient**: Python, SQL, Algorithms, Data Science, EDA, AI, Machine Learning, Deep Learning, NLP, Generative AI, LLM, LangChain, RAG, Computer Vision, AWS, GCP, Tenserflow, Keras, Scikit-Learn, Numpy, Pandas, Matplotlib
+- **Familiar**: C, C++, HTML, CSS, Java, JavaScript, Bootstrap, JQuery, GitHub, Information Retrieval, CI/CD
 
 ## Coursework
 
 - **Undergraduate**: Design and Analysis of Algorithms, Data Structures and Algorithms, Database Management System Operating System, Computer Networks, Digital Image Processing, Natural Language Processing, Object-Oriented Analysis and Design, Deep Learning, Advanced Topics in Databases, Concurrent and Parallel Programming, Software Engineering
-- **Additional**: Machine Learning, Mathematics for ML, Deep Learning Specialization, TensorFlow in Practice Specialization
+- **Additional**: Machine Learning, Mathematics for ML, Deep Learning Specialization, TensorFlow in Practice Specialization, Machine Learning in Production, Generative AI with Large Language Models
 
 ## Achievements
 
