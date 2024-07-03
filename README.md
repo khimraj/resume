@@ -33,10 +33,8 @@ April 2021 – June 2021
 _Remote_ \
 **Amazon**\
 May 2020 – July 2020
-- Designed and developed a fully responsive lender runbook website for Amazon Pay Later Service and deployed on AWS.
-- Achieved an 80% reduction in the preparation and exchange time of standard partner materials.
-- All code was reviewed and pushed to production and received a full-time job offer.
-- Attained the ﬁrst position in a 3 days team hackathon among 30+ participants.
+- Designed, developed, and deployed a responsive lender runbook website for Amazon Pay Later Service on AWS, reducing standard partner materials’ preparation and exchange time by 80%.
+- Won a 3-day hackathon with 30+ participants, and secured a full-time job offer.
 
 
 ## Publications
@@ -46,6 +44,11 @@ May 2020 – July 2020
 
 ## Projects
 
+### LLM Multi-Agent based Stock Selection and Price Prediction Model
+
+- Developed a model for the India and US markets with daily, weekly, and monthly stock price predictions, including prediction confidence scores.
+- Utilized fundamental, historical price, and news data to aim for outperforming market index performance.
+
 ### Indoor Localization For 5g And Beyond(BTech Thesis Group Project)
 
 - Proposed a novel MOIL deep learning approach for indoor localization using CSI data.
@@ -53,10 +56,8 @@ May 2020 – July 2020
 
 ### Automated Tweets Report
 
-- Prepared a python script to collect tweets having some particular keywords and tagging speciﬁed Twitter handle.
-- Performed sentiment analysis on each tweet to award a score in range [-1, 1].
-- Generated a detailed Microsoft Excel report having 5+ columns and enabled service to send this report in an email.
-- Deployed on AWS EC2 service and used cron jobs to run the script at the scheduled time on a daily basis.
+- Developed a Python script for keyword-based tweet collection, sentiment analysis, and Excel report generation.
+- Deployed the solution on AWS EC2 for daily scheduled executions with automatic email delivery using cron jobs.
 
 
 ## Education
@@ -77,7 +78,7 @@ May 2020 – July 2020
 ## Coursework
 
 - **Undergraduate**: Design and Analysis of Algorithms, Data Structures and Algorithms, Database Management System Operating System, Computer Networks, Digital Image Processing, Natural Language Processing, Object-Oriented Analysis and Design, Deep Learning, Advanced Topics in Databases, Concurrent and Parallel Programming, Software Engineering
-- **Additional**: Machine Learning, Mathematics for ML, Deep Learning Specialization, TensorFlow in Practice Specialization, Machine Learning in Production, Generative AI with Large Language Models
+- **Additional**: Machine Learning, Mathematics for ML, Deep Learning Specialization, TensorFlow in Practice Specialization, Machine Learning in Production, Generative AI with Large Language Models, Trading Basics, Trading Algorithms, Advanced Trading Algorithms, Creating a Portfolio, Machine Learning for Trading Specialization
 
 ## Achievements
 
