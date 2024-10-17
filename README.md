@@ -10,22 +10,26 @@ Email: [khimrajsuthar@gmail.com](mailto:) \
 _Remote_ \
 **Webb.ai**\
 January 2024 – Present
-- Focusing on advancing the automation of troubleshooting processes for DevOps/SRE issues in cloud environments, leveraging expertise in deploying and optimizing LLM agents.
+- Focusing on advancing the automation of troubleshooting processes for DevOps/SRE issues in cloud environments, leveraging expertise in deploying and optimizing LLM agents and RAG systems.
+- Fine tuning LLMs to improve function call relevance, increasing accuracy from 78% to 89%.
+- Reducing DevOps/SRE debugging time by 60% and cost by 50% through enhanced root cause analysis, recommendation steps, and incident resolution.
 
 ### Software Engineer, Machine Learning
 
 _Bengaluru, India_ \
 **Ivy Homes**\
 June 2021 - November 2023
-- Steered the development of OCR, Entity Extraction, Document Classification, Text Clustering, Pricing(Valuation) Model, Liquidity Model, and intuitive Chatbot for real estate using ChatGPT.
-- Deployed Pricing Model using Django and implemented VPN to protect internal data.
+- Steered the development of OCR, Entity Extraction, Document Classification, Text Clustering, internal Dashboards, Pricing/Valuation Model, and Liquidity Model.
+- Achieved a significant reduction in property valuation model prediction error from 15% to 8% MdAPE.
+- Built a LLM powered chatbot for real estate, automating responses for 90% of user queries when the support team is offline, improving customer support coverage.
+- Implemented robust data pipelines and deployed the pricing model using Django, incorporated a VPN layer to secure internal dashboards access and protect sensitive data.
 
 ### Machine Learning Intern
 
 _Remote_ \
 **Skillbee**\
 April 2021 – June 2021
-- Worked on Job Recommendation and Relevance problems.
+- Created solutions for Job Recommendation and Relevance challenges.
 - Worked on Deep Learning-based document classification which improved the CV relevance on the platform from 65% to 93%.
 
 ### Software Development Engineer Intern
@@ -46,8 +50,8 @@ May 2020 – July 2020
 
 ### LLM Multi-Agent based Stock Selection and Price Prediction Model
 
-- Developed a model for the India and US markets with daily, weekly, and monthly stock price predictions, including prediction confidence scores.
-- Utilized fundamental, historical price, and news data to aim for outperforming market index performance.
+- Established a model for the India and US markets with daily, weekly, and monthly stock price predictions, including prediction confidence scores.
+- Outperformed market index by 3% using fundamental, historical price, and news data.
 
 ### Indoor Localization For 5g And Beyond(BTech Thesis Group Project)
 
@@ -72,7 +76,7 @@ May 2020 – July 2020
 
 ## Skills
 
-- **Proficient**: Python, SQL, Algorithms, Data Science, EDA, AI, Machine Learning, Deep Learning, NLP, Generative AI, LLM, LangChain, RAG, Computer Vision, AWS, GCP, Tenserflow, Keras, Scikit-Learn, Numpy, Pandas, Matplotlib
+- **Proficient**: Python, SQL, Algorithms, Data Science, EDA, AI, Machine Learning, Deep Learning, NLP, Generative AI, LLM, LangChain, RAG, Computer Vision, AWS, GCP, Tenserflow, Keras, Scikit-Learn, Numpy, Pandas, Matplotlib, MLOps, Vector DB, XGBoost
 - **Familiar**: C, C++, HTML, CSS, Java, JavaScript, Bootstrap, JQuery, GitHub, Information Retrieval, CI/CD
 
 ## Coursework
@@ -82,5 +86,5 @@ May 2020 – July 2020
 
 ## Achievements
 
-- Rated 1993 on [Codechef](https://www.codechef.com/users/khimrajsuthar) and 1766 on [Leetcode](https://leetcode.com/khimrajsuthar/)(Solved 500 problems).
+- Rated 1993 on [Codechef](https://www.codechef.com/users/khimrajsuthar) and 1766 on [Leetcode](https://leetcode.com/khimrajsuthar/).
 - Secured 582/4700 rank in Round F and 608/6200 rank in Round H of Google Kick Start coding competition 2020.
