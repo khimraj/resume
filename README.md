@@ -9,7 +9,7 @@ Email: [khimrajsuthar@gmail.com](mailto:) \
 
 _Remote_ \
 **Webb.ai**\
-January 2024 – Present
+December 2023 – Present
 - Focusing on advancing the automation of troubleshooting processes for DevOps/SRE issues in cloud environments, leveraging expertise in deploying and optimizing LLM agents and RAG systems.
 - Fine tuning LLMs to improve function call relevance, increasing accuracy from 78% to 89%.
 - Reducing DevOps/SRE debugging time by 60% and cost by 50% through enhanced root cause analysis, recommendation steps, and incident resolution.
