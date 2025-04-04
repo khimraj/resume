@@ -5,11 +5,18 @@ Email: [khimrajsuthar@gmail.com](mailto:) \
 
 ## Experience
 
+### Software Engineer, Machine Learning
+
+_Bengaluru, India_ \
+**Docusign**\
+December 2024 - Present
+- Developing AI agents, creating GenAI proof-of-concepts (POCs), and identifying and implementing GenAI use cases to drive innovation and enhance business solutions.
+
 ### Software Engineer, LLM
 
 _Remote_ \
 **Webb.ai**\
-December 2023 – Present
+December 2023 – November 2024
 - Focusing on advancing the automation of troubleshooting processes for DevOps/SRE issues in cloud environments, leveraging expertise in deploying and optimizing LLM agents and RAG systems.
 - Fine tuning LLMs to improve function call relevance, increasing accuracy from 78% to 89%.
 - Reducing DevOps/SRE debugging time by 60% and cost by 50% through enhanced root cause analysis, recommendation steps, and incident resolution.
@@ -76,7 +83,7 @@ May 2020 – July 2020
 
 ## Skills
 
-- **Proficient**: Python, SQL, Algorithms, Data Science, EDA, AI, Machine Learning, Deep Learning, NLP, Generative AI, LLM, LangChain, RAG, Computer Vision, AWS, GCP, Tenserflow, Keras, Scikit-Learn, Numpy, Pandas, Matplotlib, MLOps, Vector DB, XGBoost
+- **Proficient**: Python, SQL, Algorithms, Data Science, EDA, AI, Machine Learning, Deep Learning, NLP, Generative AI, LLM, LangChain, RAG, Computer Vision, AWS, GCP, Tenserflow, Keras, Scikit-Learn, Numpy, Pandas, Matplotlib, MLOps, Vector DB, XGBoost, AI Agents
 - **Familiar**: C, C++, HTML, CSS, Java, JavaScript, Bootstrap, JQuery, GitHub, Information Retrieval, CI/CD
 
 ## Coursework
