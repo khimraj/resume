@@ -5,7 +5,7 @@ Email: [khimrajsuthar@gmail.com](mailto:) \
 
 ## Experience
 
-### Software Engineer, Machine Learning
+### GenAI Developer
 
 _Bengaluru, India_ \
 **Docusign**\
