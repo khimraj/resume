@@ -10,7 +10,9 @@ Email: [khimrajsuthar@gmail.com](mailto:) \
 _Bengaluru, India_ \
 **Docusign**\
 December 2024 - Present
-- Developing AI agents, creating GenAI proof-of-concepts (POCs), and identifying and implementing GenAI use cases to drive innovation and enhance business solutions.
+- Designed and deployed AI agent-based solutions for intelligent information retrieval and personalized email generation (first-touch and follow-up), increasing click-through rates by 14% across multiple use cases.
+- Built a robust Text-to-SQL pipeline leveraging LangChain and vector databases, enabling natural language queries over structured datasets and streamlining data accessibility.
+- Integrated GenAI capabilities into production systems, including RAG pipelines, MCP Server, LLM routing, and GenAI-specific observability, enhancing system performance and monitoring.
 
 ### Software Engineer, LLM
 
@@ -83,7 +85,7 @@ May 2020 – July 2020
 
 ## Skills
 
-- **Proficient**: Python, SQL, Algorithms, Data Science, EDA, AI, Machine Learning, Deep Learning, NLP, Generative AI, LLM, LangChain, RAG, Computer Vision, AWS, GCP, Tenserflow, Keras, Scikit-Learn, Numpy, Pandas, Matplotlib, MLOps, Vector DB, XGBoost, AI Agents
+- **Proficient**: Python, SQL, Algorithms, Data Science, EDA, AI, Machine Learning, Deep Learning, NLP, Generative AI, LLM, LangChain, RAG, Computer Vision, AWS, GCP, Tenserflow, Keras, Scikit-Learn, Numpy, Pandas, Matplotlib, MLOps, Vector DB, XGBoost, AI Agents, MCP, CrewAI, LangGraph, Airflow
 - **Familiar**: C, C++, HTML, CSS, Java, JavaScript, Bootstrap, JQuery, GitHub, Information Retrieval, CI/CD
 
 ## Coursework
