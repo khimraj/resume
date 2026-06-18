@@ -1,0 +1,130 @@
+%------------------------
+% Resume Template
+% Author : Anubhav Singh
+% Github : https://github.com/xprilion
+% License : MIT
+%------------------------
+
+\documentclass[a4paper,20pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.530in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.45in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{center}
+  \textbf{{\Large Khimraj Suthar}} \\
+  Bengaluru, India \hspace{1em}
+  \href{mailto:khimrajsuthar@gmail.com}{khimrajsuthar@gmail.com} \hspace{1em}
+  \href{tel:+918290285519}{+91-8290285519} \\
+  \href{https://www.linkedin.com/in/khimraj-suthar-20b7aa122/}{linkedin.com/in/khimraj-suthar-20b7aa122} \hspace{1em}
+  \href{https://github.com/khimraj}{github.com/khimraj} \hspace{1em}
+  \href{https://khimrajsuthar.com}{khimrajsuthar.com}
+\end{center}
+
+%-----------SUMMARY-----------------
+\section{Summary}
+GenAI Engineer with 5+ years building production AI systems spanning agentic workflows, retrieval systems, model evaluation, fine-tuning, and AI infrastructure across OpenAI, Claude, Gemini, and Llama ecosystems. Delivered enterprise-scale solutions processing 4M+ records at 100K/day throughput, serving high-throughput workloads, and driving organization-wide AI adoption.
+
+%-----------SKILL SUMMARY-----------------
+\vspace{1pt}
+\section{Skills}
+	\noindent\textbf{LLM Systems:} RAG, Multi-Agent Systems, Agent Orchestration, A2A, MCP, Function Calling, Prompt \& Context Engineering, Fine-tuning, Model Evaluation, LLM Routing, Guardrails, Observability \\
+	\textbf{Frameworks \& Models:} LangGraph, LangChain, CrewAI, ADK, Glean, Vertex AI, Claude Code $\cdot$ GPT, Claude, Gemini, Llama \\
+	\textbf{Infrastructure \& Data:} AWS, GCP, Azure, Kubernetes, Docker, Airflow, Arize, CI/CD $\cdot$ PostgreSQL, Redis, Qdrant, Vector DB \\
+	\textbf{Languages \& ML:} Python, C++, SQL $\cdot$ TensorFlow, Scikit-Learn, XGBoost, Deep Learning, NLP, Computer Vision
+ 
+%-----------EXPERIENCE-----------------
+\section{Experience}
+  \noindent\textbf{GenAI Engineer} \hfill \textit{December 2024 - Present}\\
+    Docusign \hfill Bengaluru, India
+    \vspace{-2pt}
+    \begin{itemize}[label=$\bullet$]
+        \item Designed a multi-stage LLM classification pipeline with model routing, confidence scoring, human-review workflows, and offline evaluation to track accuracy, processing 4M+ records at 100K/day throughput.
+        \vspace{-4pt}
+        \item Built shared GenAI components including LLM routing with cost and latency optimization, MCP services, agent identity, RAG pipelines, and observability integrations that accelerated development across AI applications.
+        \vspace{-4pt}
+        \item Led development and rollout of Glean-based productivity agents, including automated daily action items, adopted by 50\%+ of employees.
+        \vspace{-4pt}
+        \item Developed a Text-to-SQL pipeline using LangChain and vector databases, achieving 94\% query accuracy and reducing reporting turnaround by 80\%.
+        \vspace{-4pt}
+        \item Architected personalized email generation agents using CrewAI and LangChain, delivering 10K+ tailored emails and increasing click-through rates by 14\%.
+      \end{itemize}
+ 
+  \noindent\textbf{Software Engineer, LLM} \hfill \textit{December 2023 - November 2024}\\
+    Webb.ai \hfill Remote, India
+    \vspace{-2pt}
+    \begin{itemize}[label=$\bullet$]
+        \item Architected multi-agent and RAG systems for automated DevOps/SRE troubleshooting in cloud environments, handling 100 parallel requests per second in production.
+        \vspace{-4pt}
+        \item Fine-tuned LLMs using LoRA on tool-call datasets, built evaluation pipelines to benchmark function-call accuracy on held-out benchmarks, improving it from 78\% to 89\%.
+        \vspace{-4pt}
+        \item Drove a 60\% reduction in DevOps/SRE debugging time and 50\% cost savings through LLM-driven root cause analysis and incident resolution workflows.
+      \end{itemize}
+ 
+    \noindent\textbf{Software Engineer, Machine Learning} \hfill \textit{June 2021 - November 2023}\\
+    Ivy Homes \hfill Bengaluru, India
+    \vspace{-2pt}
+    \begin{itemize}[label=$\bullet$]
+        \item Led development of OCR, Entity Extraction, Document Classification, Text Clustering, and Pricing/Valuation models, reducing property valuation error from 15\% to 8\% MdAPE.
+        \vspace{-4pt}
+        \item Built an LLM-powered real estate chatbot that automated 90\% of off-hours user queries. Developed data pipelines processing 3M+ records and secured internal dashboards and business data through a self-hosted VPN layer.
+      \end{itemize}
+ 
+    \noindent\textbf{Software Development Engineer Intern} \hfill \textit{May 2020 -- July 2020}\\
+    Amazon \hfill Remote, India
+    \vspace{-2pt}
+		\begin{itemize}[label=$\bullet$]
+        \item Built and deployed a lender runbook website for Amazon Pay Later on AWS, reducing partner prep time by 80\%, won a 3-day hackathon with 30+ participants and received a full-time offer.
+		\end{itemize}
+ 
+%-----------EDUCATION-----------------
+\vspace{1pt}
+\section{Education}
+\noindent\textbf{Bachelor of Technology - Computer Science and Engineering} \hfill \textit{August 2017 - June 2021}\\
+Malaviya National Institute of Technology (MNIT) \hfill Jaipur, India
+ 
+%-----------PUBLICATIONS-----------------
+\vspace{1pt}
+\section*{Publications}
+\begin{itemize}[leftmargin=*]
+    \item Khimraj, P. K. Shukla, A. Vijayvargiya, R. Kumar. \href{https://ieeexplore.ieee.org/document/9117456}{\textbf{Human Activity Recognition using Accelerometer and Gyroscope Data from Smartphones}}. \textit{ICONC3}, 2020.
+    \vspace{-4pt}
+    \item Vijayvargiya A, Khimraj, Kumar R, Dey N. \href{https://link.springer.com/article/10.1007/s13246-021-01071-6}{\textbf{Voting-based 1D CNN model for human lower limb activity recognition using sEMG signal}}. \textit{Phys Eng Sci Med}, 2021.
+\end{itemize}
+ 
+\end{document}
